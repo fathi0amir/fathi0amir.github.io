@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baghali
-permalink: /Baghali/
+permalink: /baghali/
 ---
 
 Baghali baghali baghali baghali
