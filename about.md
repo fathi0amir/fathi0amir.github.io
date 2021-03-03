@@ -25,4 +25,4 @@ share my minute contribution, modification or composition for what I have learnt
 
 https://www.linkedin.com/in/fathi0amir/
 
-[email@domain.com](mailto:email@domain.com)
+[fathi0amir@gmail.com](mailto:fathi0amir@gmail.com)
