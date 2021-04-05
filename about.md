@@ -23,6 +23,16 @@ share my minute contribution, modification or composition for what I have learnt
 
 ### Contact info
 
+
 https://www.linkedin.com/in/fathi0amir/
 
 [fathi0amir@gmail.com](mailto:fathi0amir@gmail.com)
+
+https://www.researchgate.net/profile/Amir-Fathi-5
+
+https://orcid.org/0000-0002-2528-8405
+
+https://publons.com/researcher/2544061/amir-fathi/
+
+https://stackoverflow.com/users/14200249/amir-fathi
+https://meta.stackexchange.com/users/974036/amir-fathi
