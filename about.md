@@ -30,3 +30,5 @@ share my minute contribution, modification or composition for what I have learnt
 [Publons](https://publons.com/researcher/2544061/amir-fathi/)
 [Stackoverflow](https://stackoverflow.com/users/14200249/amir-fathi)
 [Stackexchange](https://meta.stackexchange.com/users/974036/amir-fathi)
+[Strava](https://www.strava.com/athletes/35111865)
+[Connect.Garmin](https://connect.garmin.com/modern/profile/0d1daa0b-da7b-411e-ae62-85cb9b6df8f6)
