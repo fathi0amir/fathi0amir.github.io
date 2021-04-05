@@ -23,7 +23,7 @@ share my minute contribution, modification or composition for what I have learnt
 
 ### CV
 
-[Here](https://github.com/fathi0amir/CV/blob/main/Amir%20Fathi%20Curriculum%20Vitae%20(En)%2008-12-2020).pdf) 
+[Here](https://github.com/fathi0amir/CV/blob/main/Amir%20Fathi%20Curriculum%20Vitae.pdf) 
 is my CV in latex. There is the PDF file and the LaTeX source in case anyone is interested in it.
 
 ### Contact info
