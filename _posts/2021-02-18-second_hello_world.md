@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running! Again! and Again!
+title: Laser Scanning Microscope Acquisition GUI in Labview
 ---
 
-Just update your site OK! Gooooood!
+Coming soon ... 
+I will update this page with the source code for the labview program and the 
+detailed instruction to get it up and running. 
 
-({{ site.baseurl }}/images/config.png)
+<!-- ({{ site.baseurl }}/images/config.png) -->
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
