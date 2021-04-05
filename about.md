@@ -31,7 +31,7 @@ is my CV in latex. There is the PDF file and the LaTeX source in case anyone is 
 :carousel_horse:[fathi0amir@gmail.com](mailto:fathi0amir@gmail.com);
 :train:[Linkedin](https://www.linkedin.com/in/fathi0amir/);
 :oncoming_taxi:[ResearchGate](https://www.researchgate.net/profile/Amir-Fathi-5);
-aerial_tramway:[ORCID](https://orcid.org/0000-0002-2528-8405);
+:aerial_tramway:[ORCID](https://orcid.org/0000-0002-2528-8405);
 :tram:[Publons](https://publons.com/researcher/2544061/amir-fathi/);
 :airplane:[Stackoverflow](https://stackoverflow.com/users/14200249/amir-fathi);
 :rocket:[Stackexchange](https://meta.stackexchange.com/users/974036/amir-fathi);
