@@ -1,4 +1,4 @@
-This is my personal page to share what I have learned form the people of interent and during my university life. This repository is forked from Barry Clark and 
+>This is my personal page to share what I have learned form the people of interent and during my university life. This repository is forked from Barry Clark and 
 his original explanation of his Jekyll-Now is kept as it was. My kindest gratitude for providing this for me and alike. 
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
