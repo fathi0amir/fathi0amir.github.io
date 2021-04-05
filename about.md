@@ -28,12 +28,12 @@ is my CV in latex. There is the PDF file and the LaTeX source in case anyone is 
 
 ### Contact info
 
-:carousel_horse:[fathi0amir@gmail.com](mailto:fathi0amir@gmail.com);
-:train:[Linkedin](https://www.linkedin.com/in/fathi0amir/);
-:oncoming_taxi:[ResearchGate](https://www.researchgate.net/profile/Amir-Fathi-5);
-:aerial_tramway:[ORCID](https://orcid.org/0000-0002-2528-8405);
-:tram:[Publons](https://publons.com/researcher/2544061/amir-fathi/);
-:airplane:[Stackoverflow](https://stackoverflow.com/users/14200249/amir-fathi);
-:rocket:[Stackexchange](https://meta.stackexchange.com/users/974036/amir-fathi);
-:helicopter:[Strava](https://www.strava.com/athletes/35111865);
-:steam_locomotive:[Connect.Garmin](https://connect.garmin.com/modern/profile/0d1daa0b-da7b-411e-ae62-85cb9b6df8f6);
+[fathi0amir@gmail.com](mailto:fathi0amir@gmail.com);
+[Linkedin](https://www.linkedin.com/in/fathi0amir/);
+[ResearchGate](https://www.researchgate.net/profile/Amir-Fathi-5);
+[ORCID](https://orcid.org/0000-0002-2528-8405);
+[Publons](https://publons.com/researcher/2544061/amir-fathi/);
+[Stackoverflow](https://stackoverflow.com/users/14200249/amir-fathi);
+[Stackexchange](https://meta.stackexchange.com/users/974036/amir-fathi);
+[Strava](https://www.strava.com/athletes/35111865);
+[Connect.Garmin](https://connect.garmin.com/modern/profile/0d1daa0b-da7b-411e-ae62-85cb9b6df8f6);
