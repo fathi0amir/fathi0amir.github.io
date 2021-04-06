@@ -27,6 +27,14 @@ share my minute contribution, modification or composition for what I have learnt
 is my CV in latex. There is the PDF file and the LaTeX source in case anyone is interested in it.
 
 ### Contact info
+8C08
+
+Interdisciplinary Research Building for Science and Technology
+
+Academia Sinica
+
+02-27899985
+
 
 [fathi0amir@gmail.com](mailto:fathi0amir@gmail.com);
 [Linkedin](https://www.linkedin.com/in/fathi0amir/);
