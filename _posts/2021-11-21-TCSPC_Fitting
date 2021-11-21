@@ -9,7 +9,8 @@ Of course it can fit typical summation of exponential functions but if your fitt
 want to do this in MatLab or some other environement. Picoquant made availabe an script that can load picoquant 
 proprietory files in MatLab. From Matlab you have unlimited freedom to deal with your data they way you want.
 
-This zip file includes the scripts, the fitting models, raw data, processed data and a final figure. I hope they can come handy to 
+[This](https://github.com/fathi0amir/TCSPC_Data_Fitting) zip file includes the scripts, 
+the fitting models, raw data, processed data and a final figure. I hope they can come handy to 
 others as well as a starting point. Included, you can find the raw and processed data as "mat" files. 
 If you follow the "Fiiting_TCSPC.m" script you should be able to 
 get the included final figure of the fitted data results and a same values in the "processed_data.mat" file. 
