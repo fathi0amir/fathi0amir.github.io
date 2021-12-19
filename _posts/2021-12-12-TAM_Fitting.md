@@ -16,5 +16,5 @@ helps others for their specific application somehow.
 All the codes, and demo files are available [here](https://github.com/fathi0amir/TAM_Image_Processing_Demo)
 
 Additionally for reading, saving and showing tiff files I used the two following MatLab packages
-https://www.mathworks.com/matlabcentral/fileexchange/49768-view-image-stack-gui
-https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack
+- https://www.mathworks.com/matlabcentral/fileexchange/49768-view-image-stack-gui
+- https://www.mathworks.com/matlabcentral/fileexchange/35684-multipage-tiff-stack
