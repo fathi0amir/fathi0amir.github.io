@@ -20,4 +20,8 @@ I have put together [here](https://github.com/fathi0amir/Calcium_Imaging)
 my script and a striped down verstion of CaImAn with the hope 
 that it might be of any assistance to anyone using CaImAn is a similar application. 
 
+[Here](https://drive.google.com/file/d/1X2KKHsawJwGURE5jlL181OVath0NPnSu/view?usp=sharing)
+is a test file for anyone to give it a try. One needs to only open and run "aaa_Extract_Calcium_Traces_04.m" 
+which will promp for user input and the image file. 
+
 
