@@ -33,7 +33,7 @@ expand on this in my spare time. I will also try to upload and update this blog 
 comprehensive version. 
 
 I do need to mentions the following tutorial that helped me to be able to get this far: 
-https://youtu.be/bupVHvMEAz0
-https://youtu.be/yLpvJho5hQA
-https://youtu.be/qeabaagMZr8
+- https://youtu.be/bupVHvMEAz0
+- https://youtu.be/yLpvJho5hQA
+- https://youtu.be/qeabaagMZr8
 Thanks to all of them to their great videos.
