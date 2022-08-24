@@ -31,21 +31,26 @@ The first figure will be the result of phase correction. In systems that resonan
 there will some shifts in pixels between the odd and even lines. So in the first stage of CaImAn, 
 it will apply this correction to all the images. as show in the figure below, the corrected 
 image has smoother and more organic edges. 
+
 ![CaImAn Phase Correction](https://github.com/fathi0amir/Calcium_Imaging/blob/main/caiman_phase.png)
 
 The next step is to account for the image drif during the course of acquisition. This is inevitable 
 as the acquisition time can be very long. CaImAn tries to get a template from the first desired 
 number of images and apply that to the whole stack. In the motion correction image, the maximum 
 projection of the corrected stack looks more accurate in comparison to the raw data. 
+
 ![CaImAn Motion Correction](https://github.com/fathi0amir/Calcium_Imaging/blob/main/caiman_motion.png)
 
 Now, CaImAn algorithm tried to find some starting points to initiated to detection method. 
+
 ![CaImAn Starting Points](https://github.com/fathi0amir/Calcium_Imaging/blob/main/caiman_seeds.png)
 
 Next, a series of methods will kick in to find the active cells (units) in the image stack. 
+
 ![CaImAn Detected ROIs](https://github.com/fathi0amir/Calcium_Imaging/blob/main/caiman_detected.png)
 
 At the end, it will plot the traces of the detected units.
+
 ![CaImAn](https://github.com/fathi0amir/Calcium_Imaging/blob/main/caiman_traces.png)
 
 
