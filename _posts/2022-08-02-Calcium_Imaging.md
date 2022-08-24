@@ -34,8 +34,6 @@ image has smoother and more organic edges.
 
 ![CaImAn Phase Correction](https://raw.githubusercontent.com/fathi0amir/Calcium_Imaging/blob/main/caiman_phase.png)
 
-https://raw.githubusercontent.com
-
 The next step is to account for the image drif during the course of acquisition. This is inevitable 
 as the acquisition time can be very long. CaImAn tries to get a template from the first desired 
 number of images and apply that to the whole stack. In the motion correction image, the maximum 
