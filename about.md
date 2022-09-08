@@ -24,8 +24,8 @@ share my minute contribution, modification or composition for what I have learnt
 
 ### CV
 
-[Here](https://github.com/fathi0amir/CV/blob/main/Amir%20Fathi%20Curriculum%20Vitae.pdf) 
-is my CV in latex. There is the PDF file and the LaTeX source in case anyone is interested in it.
+[Here is my CV](https://texlive2020.latexonline.cc/compile?git=https://github.com/fathi0amir/CV_03&target=Amir_Fathi_CV.tex&command=xelatex).
+The latex source files can be found [here](https://github.com/fathi0amir/CV_03/).
 
 ### Contact info
 
