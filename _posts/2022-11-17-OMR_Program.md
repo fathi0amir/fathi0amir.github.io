@@ -12,6 +12,8 @@ swimming in upward, downward, left, right, forward and backward
 direction in Blender. The with a simple labview program 
 I can read the frames and have control over the frame-rate. 
 
+![OMR_Demo_GIU](https://raw.githubusercontent.com/fathi0amir/OMR_Program/main/OMR_Demo_GUI.png)
+
 This simple setup can be expanded for recording various data 
 which in my case was recording swimming direction with a help 
 of a torque and force sensor (this acquisition part is not included). 
