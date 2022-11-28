@@ -44,3 +44,4 @@ Academia Sinica
 [Stackexchange](https://meta.stackexchange.com/users/974036/amir-fathi);
 [Strava](https://www.strava.com/athletes/35111865);
 [Connect.Garmin](https://connect.garmin.com/modern/profile/0d1daa0b-da7b-411e-ae62-85cb9b6df8f6);
+[Goodreads](https://www.goodreads.com/fathi0amir);
