@@ -25,7 +25,7 @@ share my minute contribution, modification or composition for what I have learnt
 ### CV
 
 [Here is my CV on Overleaf](https://www.overleaf.com/read/kxksrkdvyqyr).
-The latex source files and the compiled pdf can be found [here](https://github.com/fathi0amir/CV_03/).
+The latex source files and the compiled pdf can be found in the [Github repository](https://github.com/fathi0amir/CV_03/).
 
 ### Contact info
 
