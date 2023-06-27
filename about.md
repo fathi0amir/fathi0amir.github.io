@@ -24,8 +24,8 @@ share my minute contribution, modification or composition for what I have learnt
 
 ### CV
 
-[Here is my CV](https://texlive2020.latexonline.cc/compile?git=https://github.com/fathi0amir/CV_03&target=Amir_Fathi_CV.tex&command=xelatex).
-The latex source files can be found [here](https://github.com/fathi0amir/CV_03/).
+[Here is my CV on Overleaf](https://www.overleaf.com/read/kxksrkdvyqyr).
+The latex source files and the compiled pdf can be found [here](https://github.com/fathi0amir/CV_03/).
 
 ### Contact info
 
