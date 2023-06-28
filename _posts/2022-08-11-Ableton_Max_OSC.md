@@ -5,7 +5,8 @@ title: Control Ableton Live with OSC through Max for Live
 
 One can't imageing to what extent a bored man can go! To prove this I always wanted 
 to control my Ableton Live set with my iPad. I wanted to have full control. I started with 
-TouchOSC but I found it very limiting. They I saw "TouchAble" and "LK". "LK" looks like a 
+TouchOSC but I found it very limiting. They I saw "TouchAble" and "[LK](https://www.imaginando.pt/products/lk-ableton-live-and-midi-controller)". 
+"LK" looks like a 
 great piece of work with an active maintanance. So I bought that. Then before actually making 
 any music I thought wouldn't it be cool if I could make my own control surface! Well it is very
 very cool. I also always wanted to learn Max so I found this a good opportunity to learn and 
