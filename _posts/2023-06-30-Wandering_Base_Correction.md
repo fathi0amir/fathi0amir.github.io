@@ -9,7 +9,7 @@ sensor was connected to small fish and the resulting signal
 suffers from natural wandering baseline. Simply taking 
 a mean of buffered data could not give an acceptable result, 
 therefore I wrote this piece of LabVIEW code. 
-![Wandering Baseline Correction](./https://github.com/fathi0amir/wander-base-correction/blob/main/WanderingBaselineCorrection.png?raw=true)
+![Wandering Baseline Correction](https://github.com/fathi0amir/wander-base-correction/blob/main/WanderingBaselineCorrection.png?raw=true)
 
 [This](https://github.com/fathi0amir/wander-base-correction) 
 is a simple multi-step process. First the mean of the buffered 
