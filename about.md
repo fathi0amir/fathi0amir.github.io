@@ -29,10 +29,7 @@ The latex source files and the compiled pdf can be found in the [Github reposito
 
 ### Contact info
 
-8C08  
-Interdisciplinary Research Building for Science and Technology  
-Academia Sinica  
-02-27899985  
+Room 309, EECS Building, NTHU
 
 
 [fathi0amir@gmail.com](mailto:fathi0amir@gmail.com);
