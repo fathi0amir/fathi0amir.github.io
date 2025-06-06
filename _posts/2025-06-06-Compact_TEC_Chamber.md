@@ -3,9 +3,9 @@ layout: post
 title: Compact TEC Chamber to tight spectroscopy setup
 ---
 
-## TE-Cooling Chamber
-
 ![Rendered view of the fully assembled TEC chamber (front, back and exploded view)](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/TEC_render-2.png?raw=true)
+
+## TE-Cooling Chamber
 
 This sample chamber is designed from scratch to serve the following purposes
 
