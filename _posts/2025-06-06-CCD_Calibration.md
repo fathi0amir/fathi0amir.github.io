@@ -28,3 +28,7 @@ The spectrum is from broadened 1030 nm femtosecond laser pulse.
 ![Calibrated Spectrum](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/HR4000_Calibrated_Spectrum.svg?raw=true)
 
 I have uploaded a reproducible quarto document in [here](https://github.com/fathi0amir/HR4000_Calibration)
+
+Still, using a calibration lamp is the best way to calibrate the spectrometer but this 
+method can be used to get a rough estimate of the calibration curve without using a calibration lamp.
+From the above comparison, it is clear that the calibrated spectrum is not as accurate as the one obtained with a calibration lamp, but it is still better than the raw data from the spectrometer.
