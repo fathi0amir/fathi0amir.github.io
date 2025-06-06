@@ -1,0 +1,30 @@
+---
+layout: post
+title: Intensity Calibration of HR4000 Without Using a Calibration Lamp
+---
+
+## Spectral Response
+
+The data is digitized from the datasheet of Hamamatsu S15351 CCD QE curve. 
+It is then converted to spectral responsivity by taking into photon energy and 
+pixel size of Toshiba TCD1304 in HR4000 spectrometer. The pixel size is 8 x 200 µm.
+Sample curve is shown below.
+![Spectral Response](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/HR4000_QE_and_SR.svg?raw=true)
+
+## Grating Efficiency
+
+Digitized Grating Efficiency of 300 Lines/mm 300 nm Grating from Edmund Optics is shown below.
+![Grating Efficiency](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/HR4000_Grating_Efficiency.svg?raw=true)
+
+## Calibration Curve
+
+Calibration curve is obtained by normalizing the spectral response and grating efficiency and multiplying them together.
+![Calibration Curve](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/HR4000_Calibration_Curve.svg?raw=true)
+
+## Calibrated Spectrum Vs. Calibrated Spectrometer Data
+
+Below I compare the raw data from HR4000 spectrometer with the calibrated spectrum and with data from BWTek Spectrometer (Calibrated with a calibration lamp).
+The spectrum is from broadened 1030 nm femtosecond laser pulse.
+![Calibrated Spectrum](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/HR4000_Calibrated_Spectrum.svg?raw=true)
+
+I have uploaded a reproducible quarto document in [here](https://github.com/fathi0amir/HR4000_Calibration)
