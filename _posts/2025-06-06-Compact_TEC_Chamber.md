@@ -59,3 +59,5 @@ A small power supply is modified for the use with the fan in the back.
 The chamber was assembled and tested and was able to maintain -10&deg;C.
 
 ![Assembled TEC Chamber](https://github.com/fathi0amir/fathi0amir.github.io/blob/master/images/tec_assmbled.png?raw=true)
+
+Reference CAD files are available in the [GitHub repository](https://github.com/fathi0amir/Compact_TEC_Chamber).
