@@ -6,22 +6,22 @@ permalink: /about/
 
 I am Amir;
 
-I was born in Iran in the year that George Orwell used for this famouse last title and on the day that
+I was born in Iran in the year that George Orwell used for this famous last title and on the day that
 people enjoy smoking the most ritual herbs of it all. If you
 get it you'll never forget.
 
 I did solid-state physics for my undergraduate, some crystal growth for my master's, optics,
 scientific instrumentation, programming, image processing, chemistry, electronics, and hardware design for my PhD!
-If this doesn't impress you then I have to say I am did some neuroscience now as my frist postdoctoral reseach project.
-I loved what I did and I love what I do.
+If this doesn't impress you then I have to say I am did some neuroscience now as my first postdoctoral research project.
+I loved what I did, and I love what I do.
 
-As part of my personal life, I do some indoor gardening, some looping with my Electric Guitar in ableton, running, cycling and squash.
+As part of my personal life, I do some indoor gardening, some looping with my Electric Guitar in Ableton, running, cycling and squash.
 I got hooked on cycling for the last 4 years and it kind of fills my weekends. Squash gave me great chance to meet very
-intersting people to improve my skill in Taiwan. I only played as hobby-like thing back in Iran.
+interesting people to improve my skill in Taiwan. I only played as hobby-like thing back in Iran.
 
 Since March 207, 2024 I became a father as well in addition to my other adventures.
 
-I got here, if here is somewhere, through help and support of known and unkown manies. I would like to
+I got here, if here is somewhere, through help and support of known and unknown manies. I would like to
 share my minute contribution, modification or composition for what I have learnt from others and THE internet.
 
 ### CV
